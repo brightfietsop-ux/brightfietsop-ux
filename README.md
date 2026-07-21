@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Bright Feitsop 👋</h1>
+<h1 align="center">Hi, I'm Bright Feitsop </h1>
 
 <h3 align="center"> Computer Science & Mathematics Student | Software Engineer | Builder </h3>
 
 <p align="center"> <a href="https://www.linkedin.com/in/fietsop-bright-6615b6330/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> <a href="mailto:feitsopb@berea.edu"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"> </a> <a href="https://github.com/brightfietsop-ux"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"> </a> </p>
 
-👨‍💻 About Me
+ <b>About Me</b>
 
 I am a Computer Science and Mathematics student at Berea College who enjoys turning ideas and real-world problems into useful software.
 
@@ -29,8 +29,8 @@ Frameworks and Technologies
 
 Additional experience: Peewee ORM, AJAX, REST APIs, MVC architecture, object-oriented programming, debugging, Dev Containers, and Agile development.
 
-🚀 Featured Work
-Labor Status Forms Portal
+<b>Featured Work </b>
+<b>Labor Status Forms Portal</b>
 
 A full-stack campus application built with Flask, Peewee ORM, MySQL, JavaScript, jQuery, AJAX, and Bootstrap.
 
@@ -52,13 +52,14 @@ A full-stack platform designed to help Berea College students create personalize
 Processes unofficial transcripts
 Aligns course planning with degree requirements and career interests
 Simplifies a complex advising process into a clearer student workflow
-📚 What I Am Learning
-C++                    ████████████░░░░ Growing
-Data Structures        █████████████░░░ Building
-Backend Development    ██████████████░░ Advancing
-Database Design        █████████████░░░ Building
-Software Architecture  ████████████░░░░ Exploring
-🤝 Leadership and Community
+What I Am Learning<br></br>
+C++                    ████████████░░░░ Growing</br>
+Data Structures        █████████████░░░ Building</br>
+Backend Development    ██████████████░░ Advancing</br>
+Database Design        █████████████░░░ Building</br>
+Software Architecture  ████████████░░░░ Exploring</br>
+
+<b> Leadership and Community</b>
 
 Beyond coding, I care about using technology and education to create opportunities.
 
@@ -66,13 +67,14 @@ Led Books for Teens literacy and computer-awareness outreach in Cameroon
 Helped coordinate donations of books and school supplies
 Participated in Berea College's Solar Car Project outreach
 Active in ColorStack and CodePath technical-learning communities
-📊 GitHub Activity
+
+<b> GitHub Activity</b>
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=brightfietsop-ux&show_icons=true&hide_border=true" alt="Bright's GitHub statistics"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightfietsop-ux&layout=compact&hide_border=true" alt="Bright's most used languages"> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=brightfietsop-ux&hide_border=true" alt="Bright's GitHub contribution streak"> </p>
 
-📫 Connect With Me
+<b> Connect With Me</b>
 
 I am interested in learning opportunities, software-development projects, internships, and collaborations that create meaningful impact.
 
@@ -80,4 +82,4 @@ LinkedIn: Fietsop Bright
 GitHub: brightfietsop-ux
 Email: feitsopb@berea.edu
 
-<p align="center"> <em>Building one thoughtful line of code at a time. 🌱</em> </p>
+<p align="center"> <em>Building one thoughtful line of code at a time. </em> </p>
