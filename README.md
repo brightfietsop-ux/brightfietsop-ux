@@ -68,11 +68,11 @@ Helped coordinate donations of books and school supplies
 Participated in Berea College's Solar Car Project outreach
 Active in ColorStack and CodePath technical-learning communities
 
-<b> GitHub Activity</b>
+<!-- <b> GitHub Activity</b>
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=brightfietsop-ux&show_icons=true&hide_border=true" alt="Bright's GitHub statistics"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightfietsop-ux&layout=compact&hide_border=true" alt="Bright's most used languages"> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=brightfietsop-ux&hide_border=true" alt="Bright's GitHub contribution streak"> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=brightfietsop-ux&hide_border=true" alt="Bright's GitHub contribution streak"> </p> -->
 
 <b> Connect With Me</b>
 
