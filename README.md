@@ -12,14 +12,14 @@ I currently work as a Software Engineer with Berea College's Student Software De
 
 I am also a Teaching Assistant for Software Design and Implementation, supporting students as they learn Python, object-oriented programming, debugging, and software-design principles.
 
-🎓 Pursuing a B.A. in Computer Science and Mathematics
-💻 Building full-stack applications with Python, Flask, JavaScript, and MySQL
-🌱 Strengthening my skills in C++, data structures, APIs, and software architecture
-🤝 Interested in software engineering, education technology, and technology for social impact
-🌍 Fluent in English and French
-📍 Based in Berea, Kentucky
-🛠️ Technical Skills
-Programming Languages
+ Pursuing a B.A. in Computer Science and Mathematics <br>
+ Building full-stack applications with Python, Flask, JavaScript, and MySQL <br>
+ Strengthening my skills in C++, data structures, APIs, and software architecture <br>
+ Interested in software engineering, education technology, and technology for social impact <br>
+ Fluent in English and French <br>
+ Based in Berea, Kentucky <br>
+ Technical Skills  <br></br>
+<b>Programming Languages</b>
 
 <p> <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,r,mysql" alt="Programming Languages"> </p>
 
