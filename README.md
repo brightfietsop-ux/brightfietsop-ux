@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:feitsopb@berea.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail" alt="Email"> 
+  </a>
+   <a href="240 603 1779">
+    <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge&logo=phone" alt="Phone"> 
   </a>
   <a href="https://github.com/brightfietsop-ux">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
